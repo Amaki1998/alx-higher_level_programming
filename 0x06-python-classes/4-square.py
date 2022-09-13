@@ -1,4 +1,6 @@
-quare class definition
+#!/usr/bin/python3
+"""
+square class definition
 """
 
 
